@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using System.Web.Security;
-
+//this file will be deleted in future, it's only for example
+//
 namespace Paperless.Models
 {
 
