@@ -13,7 +13,7 @@ namespace Paperless.Bussiness
     {
         public DataAccessException (string errorCode)
         {
-            ErrorCode = errorCode;
+            ErrorCode = errorCode; 
         }
         public string ErrorCode { get; set; }
     }
